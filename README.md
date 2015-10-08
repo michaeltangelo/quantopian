@@ -1,2 +1,0 @@
-# quantopian
-trading algorithm
